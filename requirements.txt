@@ -1,0 +1,7 @@
+transformers
+datasets 
+wandb 
+peft 
+scikit-learn 
+bitsandbytes 
+accelerate -U transformers[torch]
